@@ -11,6 +11,7 @@ namespace Lab01
         {
             Console.WriteLine("Hello word!");
             Console.WriteLine("Hello word 1!");
+            Console.WriteLine("Hello word 2!");
         }
     }
 }
