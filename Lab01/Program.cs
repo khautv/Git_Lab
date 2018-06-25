@@ -10,6 +10,7 @@ namespace Lab01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello word!");
+            Console.WriteLine("Hello word 1!");
         }
     }
 }
